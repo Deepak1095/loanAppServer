@@ -1,0 +1,19 @@
+{
+  "name": "loanappserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepak1095/loanAppServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepak1095/loanAppServer/issues"
+  },
+  "homepage": "https://github.com/Deepak1095/loanAppServer#readme"
+}
