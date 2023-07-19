@@ -6,6 +6,6 @@ const cors = require('cors')
 server.use(middlewares)
 server.use(router)
 server.use(cors())
-server.listen(9001, () => {
+server.listen(9090, () => {
   console.log('JSON Server is running')
 })
