@@ -1,10 +1,10 @@
 {
     "login": [
         {
-            "firstName": "Deepak",
-            "LastName": "Dhankhar",
-            "email": "123email.com",
-            "password": "12345678"
+            "firstName": "user",
+            "LastName": "",
+            "email": "user@email.com",
+            "password": "user1234"
         }
     ],
     "data": []
